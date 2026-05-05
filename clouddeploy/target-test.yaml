@@ -1,0 +1,10 @@
+apiVersion: deploy.cloud.google.com/v1beta1
+kind: Target
+
+metadata:
+  name: test
+
+description: test cluster
+
+gke:
+  cluster: projects/YOUR_PROJECT_ID/locations/us-west1/clusters/test

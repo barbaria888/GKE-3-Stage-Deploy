@@ -34,7 +34,7 @@ Production-style continuous delivery pipeline using:
 <p align="center">
   <a href="https://youtu.be/nob88Grtpwo">
     <img
-      src="https://capsule-render.vercel.app/api?type=rounded&height=150&text=Watch%20Pipeline%20Walkthrough%20on%20Youtube▶︎&fontSize=44&fontAlignY=43&fontColor=FFFFFF&animation=fadeIn&desc=AI-Powered%20Container%20Security%20Architecture&descAlignY=69&descSize=17&color=0:F8FAFC,10:E0F2FE,24:BAE6FD,40:93C5FD,58:A5B4FC,74:C4B5FD,88:FDE68A,100:FBCFE8"
+      src="https://capsule-render.vercel.app/api?type=rounded&height=150&text=Watch%20Pipeline%20Walkthrough%20on%20Youtube▶︎&fontSize=44&fontAlignY=43&fontColor=FFFFFF&animation=fadeIn&desc=GKE-%20Multi%20Stage%20Deployment&descAlignY=69&descSize=17&color=0:F8FAFC,10:E0F2FE,24:BAE6FD,40:93C5FD,58:A5B4FC,74:C4B5FD,88:FDE68A,100:FBCFE8"
       style="
         border-radius:32px;
         box-shadow:
@@ -46,6 +46,7 @@ Production-style continuous delivery pipeline using:
     />
   </a>
 </p>
+
 ### ⚙️ Tech Stack
 * GKE
 * Cloud Deploy
